@@ -13,7 +13,7 @@ From the repository root,
 1. run `./gradlew build`run the build
 2. run `./gradlew bootrun` to execute Srping Boot. The applicaiton will start and you can add, delete, modify and get Todos.
 
-# Need to be added:
+## Need to be added:
 Since this application uses cloud Atlas mongodb and have removed mongo-config.properties file, if you want to use mongodb cloud you can add the file in main/resources
 FileName should be exact same as I have provided this filename to Application.java as property file, if you wish to change it change in Application.java too
 ### mongo-config.properties
